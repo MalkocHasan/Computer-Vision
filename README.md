@@ -1,2 +1,2 @@
-# Computer-Vision-Homework
+# Computer-Vision
 CS131-STANFORD-HOMEWORK
