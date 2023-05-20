@@ -1,2 +1,1 @@
 # Computer-Vision
-CS131-STANFORD-HOMEWORK
